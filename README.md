@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Nomula Priyanka</h1>
 <h3 align="center">A passionate as a frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="./images/gitBack-ground.jpg"></img>
+<img align="right" alt="coding" width="400" src="gitBack-ground.jpg"></img>
 
-<p align="left"> <img src="./images/nomula priyanka photo.jpg" alt="sweenkhan" /> </p>
+<p align="left"> <img src="nomula priyanka photo.jpg" alt="nomula priyanka" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web-Developer**
 
