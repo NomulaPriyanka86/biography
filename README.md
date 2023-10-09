@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<div align="center">
+<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" align="center" style="width: 100%" />
+</div>  
+  
 
 <h1 align="center">Hi 👋, I'm Nomula Priyanka</h1>
 <h3 align="center">A passionate as a frontend developer from India</h3>
